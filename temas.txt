@@ -1,0 +1,25 @@
+(      -Temas de sistemas 
+-Logo fuctiom
+-Tema 
+Sitio web   ( de la empresa ).
+-Logueo al sistema(multi usuario) administrador  y normal
+Seciones de usuarios.(consultar tablas -=)
+Cookys 
+Responsivo  (Systema sean responsivos  tabletas   teléfonos  Bustrap , materialiser 
+Ventanas modales  
+Sistema crud   altas bajas , borrar  consulta 
+Diagrama entidad relación
+Procesas datos
+ Unidad 4 
+Systemas envie archivos      lo guarda en el servidor    archivos  librerías 
+ -Enviar información  por correo electrónico.smp3   Mercury
+  Soquet web 
+  Grafiscas 
+Pdf 
+Unidad 
+Tres ejercicio
+A base de datos         
+    
+
+
+
